@@ -1,0 +1,236 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="第 1 页" id="-ct8rAmfajZ4LlhxsOiy">
+    <mxGraphModel dx="1743" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="weBDINwYChsQopcIgQsz-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="1200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-1" value="Ali Express" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-2" value="1688" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-3" value="掏寶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-4" value="天貓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-5" value="聚划算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-6" value="去啊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-7" value="口碑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-8" value="阿里媽媽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-9" value="菜鳥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-13" value="開源用戶" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="150" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;業務前台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="170" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="1281.1110432942708" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=40;endSize=11.485714285714286;width=54.285714285714285;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="290" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-22" value="支撐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="weBDINwYChsQopcIgQsz-21">
+          <mxGeometry x="0.3386" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-23" value="&lt;b&gt;阿里巴巴集團業務&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="340" width="1175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;業務中台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="352.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-31" value="&lt;b&gt;大中台(共享業務事業部)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-33" value="用戶中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-34" value="商品中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-35" value="交易中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-36" value="評價中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-37" value="營銷中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-38" value="數據服務中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-39" value="搜索中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-40" value="店鋪中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-41" value="&lt;b&gt;共享業務單元(8大中心)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=40;endSize=11.485714285714286;width=54.285714285714285;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.52" y="550" as="sourcePoint" />
+            <mxPoint x="539.52" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-44" value="支撐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="weBDINwYChsQopcIgQsz-43">
+          <mxGeometry x="0.3386" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;技術後台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="640" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="1200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;阿里雲平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="635" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.65;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="weBDINwYChsQopcIgQsz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="170" as="sourcePoint" />
+            <mxPoint x="40" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.65;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="weBDINwYChsQopcIgQsz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="352.5" as="sourcePoint" />
+            <mxPoint x="30" y="232.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="weBDINwYChsQopcIgQsz-46" target="weBDINwYChsQopcIgQsz-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="32.019999999999996" y="527.5" as="sourcePoint" />
+            <mxPoint x="32.019999999999996" y="407.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="32" y="870" as="sourcePoint" />
+            <mxPoint x="32.02" y="690" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="870" as="sourcePoint" />
+            <mxPoint x="1661.269763764881" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-58" value="分布式應用服務平台&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;EDAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="900" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="620" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-60" value="彈性計算服務ECS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-61" value="關係型數據庫服務&lt;div&gt;RDS/DRDS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-62" value="消息服務MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-63" value="開放儲存服務OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-64" value="開放數據處理服務&lt;div&gt;ODPS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-65" value="開放緩存服務OCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-66" value="分布式文件系統(盤古)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-67" value="任務調度系統(伏羲)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="720" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-68" value="遠程過程調用(夸父)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-69" value="安全管理(鍾馗)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-70" value="資源管理(伏羲)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-71" value="分布協同服務(女媧)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="760" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-72" value="(神農)集群監控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="685" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-76" value="(大禹)集群部署" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="105" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-77" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="150" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;監控系統&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;故障處理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系統升級&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;應用發布&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;安全防控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;業務監控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="weBDINwYChsQopcIgQsz-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;運維保障部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
