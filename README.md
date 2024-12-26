@@ -29,6 +29,6 @@
 
 
 4. 开发视图（Development View），描述了在开发环境中软件的静态组织结构。包含哪些功能模块。
-![](b.jpg)
+![](b1.jpg)
 
 資料來源:  https://www.jianshu.com/p/061e68b54fb0
